@@ -1,18 +1,25 @@
-h1
-{
-font-size: 45px;
-font-family: 'Orbitron', sans-serif;
-color: #00CED1;
-background: black;
-padding-top: 0px;
-padding-left: 148px;
-padding-right: 0px;
-margin: 0px;
-width: 1100px;
-height: 80px;
-float:right;
+.grid_1 img{
+  width:80px;
+  height: 280px;
 
-
+}
+.grid_2 img{
+  width: 160px;
+  height: 280px;
+  }
+  h1
+  {
+  font-size: 45px;
+  font-family: 'Orbitron', sans-serif;
+  color: #00CED1;
+  background: black;
+  padding-top: 0px;
+  padding-left: 148px;
+  padding-right: 0px;
+  margin: 0px;
+  width: 1100px;
+  height: 80px;
+  float:right;
 }
 .header
 {
@@ -24,11 +31,9 @@ float:right;
   height:80px;
   float:left;
 }
-
 body{
   padding-top: 0px;
   margin: auto;
-
 }
 .nav li
 {
@@ -57,19 +62,3 @@ body{
   p{
     color: red;
   }
-
-.super{
-  width:90%;
-  padding-left:5%;
-padding-right: 30px;
-  padding-bottom: 50px;
-  padding-top: 0px;
-opacity: .90;
-}
-.container_12 img{
-  opacity: .75;
-}
-.grid_4{
-  height: 350px;
-  border-color: grey;
-}
